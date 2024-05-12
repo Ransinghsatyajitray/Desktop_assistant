@@ -1,0 +1,7 @@
+SpeechRecognition
+pyttsx3
+PyAudio
+wikipedia
+
+
+# if we are not specifying version then latest version is install
