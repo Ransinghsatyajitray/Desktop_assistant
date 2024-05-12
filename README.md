@@ -19,3 +19,11 @@ pip list
 ```bash
 pip install -r requirements.txt
 ```
+
+# required gitgub command
+
+```bash
+git add .
+git commit -m "message"
+git push origin main
+```
